@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Fer's github stats](https://github-readme-stats.vercel.app/api?username=fersayago&show_icons=true&theme=dracula)
+
+![Fer's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fersayago&layout=compact)
+
 <!--
 **fersayago/fersayago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
