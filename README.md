@@ -9,7 +9,7 @@ Web Developer
 * 🚀  I'm currently working on [Andreani](http://www.andreani.com/)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Web Development
-* ⚡  Drop C lover
+* ⚡  Drop C tuning lover
 
 ### Skills
 
