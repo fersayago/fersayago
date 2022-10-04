@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [sayago.fernando@gmail.com](mailto:sayago.fernando@gmail.com)
 * 🚀  I'm currently working on [Andreani](http://www.andreani.com/)
-* 🧠  I'm learning Next.js
+* 🧠  Constant learning
 * 🤝  I'm open to collaborating on Web Development
 * ⚡  Drop C tuning lover
 
