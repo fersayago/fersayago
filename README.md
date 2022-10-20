@@ -5,11 +5,11 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* ✉️  You can contact me at [sayago.fernando@gmail.com](mailto:sayago.fernando@gmail.com)
-* 🚀  I'm currently working on [Andreani](http://www.andreani.com/)
+* 📧  You can contact me at [sayago.fernando@gmail.com](mailto:sayago.fernando@gmail.com)
+* 🚀  I'm currently working on [Üma Health AI](https://umasalud.com//)
 * 🧠  Constant learning
-* 🤝  I'm open to collaborating on Web Development
-* ⚡  Drop C tuning lover
+* 🤝  I'm open to collaborating on Web Development and Customer Experience
+* 🎸  Drop C tuning lover
 
 ### Skills
 
