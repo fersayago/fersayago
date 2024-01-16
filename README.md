@@ -1,14 +1,14 @@
 Hi 👋 My name is Fernando
 =========================
 
-Web Developer
+Full Stack Web Developer
 -------------
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 📧  You can contact me at [sayago.fernando@gmail.com](mailto:sayago.fernando@gmail.com)
-* 🚀  I'm currently working on [Üma Health AI](https://umasalud.com//)
+* 🔗  You can see my developer journey on [my portfolio](https://fsayago.vercel.app/)
+* 📧  or contact me at [sayago.fernando@gmail.com](mailto:sayago.fernando@gmail.com)
 * 🧠  Constant learning
-* 🤝  I'm open to collaborating on Web Development and Customer Experience
+* 🤝  I'm open to collaborating on Web Development and Open Source
 * 🎸  Drop C tuning lover
 
 ### Skills
